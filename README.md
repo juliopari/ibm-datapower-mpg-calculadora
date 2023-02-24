@@ -2,6 +2,7 @@
 
 ## CalculadoraMPG Configuration
 ![mpg-config](/images/mpg-config.png)
+![mpg-config](/images/mpg-config2.png)
 
 ## CalculadoraMPG Policy
 ![mpg-policy](/images/mpg-policy.png)
