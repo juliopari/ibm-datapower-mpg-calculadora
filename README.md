@@ -48,7 +48,10 @@ session.input.readAsJSON (function (error, json) {
 });
 ```
 ## 2. /calculadora/restar
+![calculadora-restar](/images/calculadora-restar.png)
 
 ## 3. /calculadora/multiplicar
+![calculadora-multiplicar](/images/calculadora-multiplicar.png)
 
 ## 4. /calculadora/dividir
+![calculadora-dividir](/images/calculadora-dividir.png)
