@@ -8,6 +8,7 @@
 ## 1.2. Set Variable
 - Variable Name: service/mpgw/skip-backside
 - Variable Valor: 1
+
 ![mpg-policy-setvariable-sumar](/images/mpg-policy-setvariable-sumar.png)
 
 ## 1.3. GatewayScript
