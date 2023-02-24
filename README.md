@@ -25,6 +25,9 @@
 ![mpg-policy-setvariable-sumar](/images/mpg-policy-setvariable-sumar.png)
 
 ## 1.3. GatewayScript
+
+![mpg-policy-gatewayscript-sumar](/images/mpg-policy-gatewayscript-sumar.png)
+
 ```
 var hm = require ('header-metadata');
 
