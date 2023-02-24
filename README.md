@@ -3,6 +3,9 @@
 ## 1. /calculadora/sumar
 
 ## 1.1. Match
+- URL: /calculadora/sumar
+- HTTP Method: POST
+
 ![mpg-policy-match-sumar](/images/mpg-policy-match-sumar.png)
 
 ## 1.2. Set Variable
