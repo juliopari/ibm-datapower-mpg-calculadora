@@ -1,0 +1,126 @@
+{
+	"info": {
+		"_postman_id": "91aa7870-cff2-40ce-93f1-85e289328b96",
+		"name": "datapower-mpg-calculadora",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "3256611"
+	},
+	"item": [
+		{
+			"name": "calculadora-sumar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"numero1\": 40,\r\n    \"numero2\": 10\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:7019/calculadora/sumar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "7019",
+					"path": [
+						"calculadora",
+						"sumar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "calculadora-restar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"numero1\": 40,\r\n    \"numero2\": 10\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:7019/calculadora/restar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "7019",
+					"path": [
+						"calculadora",
+						"restar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "calculadora-multiplicar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"numero1\": 40,\r\n    \"numero2\": 10\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:7019/calculadora/multiplicar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "7019",
+					"path": [
+						"calculadora",
+						"multiplicar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "calculadora-dividir",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"numero1\": 40,\r\n    \"numero2\": 10\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:7019/calculadora/dividir",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "7019",
+					"path": [
+						"calculadora",
+						"dividir"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
