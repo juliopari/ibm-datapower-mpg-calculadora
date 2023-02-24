@@ -1,9 +1,12 @@
 # ibm-datapower-mpg-calculadora
 
+## CalculadoraMPG Configuration
 ![mpg-config](/images/mpg-config.png)
 
+## CalculadoraMPG Policy
 ![mpg-policy](/images/mpg-policy.png)
 
+## CalculadoraMPG Front Side
 ![mpg-front-side](/images/mpg-front-side.png)
 
 ## 1. /calculadora/sumar
